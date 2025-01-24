@@ -32,9 +32,9 @@
         /* style of text-overlay for computer */
         .text-overlay {
             position: absolute; 
-            top: 40%;           
-            left: 75%;          
-            transform: translate(-50%, -50%);
+            top: 50%;           /* 垂直居中 */
+            right: 20px;        /* 固定在右側，距離右邊 20px */
+            transform: translateY(-50%); /* 垂直居中 */
             text-align: right; 
             color: white;       
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
@@ -45,6 +45,7 @@
             font-size: 1rem;  
             line-height: 1.5;
             width: 500px;
+            box-sizing: border-box; /* 讓 padding 包含在寬度內 */
         }
         body {
             margin: 0;
@@ -149,7 +150,7 @@
                 text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); 
                 background: none;
                 font-size: 20px;
-                width: 100%; 
+                width: 500px;
                 max-width: 100%;
                 box-sizing: border-box; 
                 padding: 10px; 

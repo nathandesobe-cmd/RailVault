@@ -138,18 +138,23 @@
             .img-container {
                 height: 200px; 
                 margin-top: 80px;
-                display: column;
+                display: block;
             }
              .text-overlay {
-                
-                margin-top: 30px;
-                position: reletive; 
+                margin-top: 20px;
+                position: relative;
                 transform: none;  
                 text-align: left;
                 color: #556B2F;  
                 text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); 
                 background: none;
                 font-size: 20px;
+                width: 100%; 
+                max-width: 100%;
+                box-sizing: border-box; 
+                padding: 10px; 
+                margin: 0;
+                line-height: 1.2; 
             }
         
             body {

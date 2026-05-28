@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RailVault Notes - 2026.05.27</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #222;
+            margin: 0;
+            padding: 40px;
+            line-height: 1.7;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: auto;
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 0 12px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 10px;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            margin-top: 50px;
+            color: #111;
+        }
+
+        .date {
+            color: #777;
+            margin-bottom: 40px;
+        }
+
+        ul {
+            margin-top: 20px;
+            margin-bottom: 30px;
+        }
+
+        li {
+            margin-bottom: 14px;
+        }
+
+        .quote {
+            background: #f0f0f0;
+            border-left: 4px solid #888;
+            padding: 15px;
+            margin: 20px 0;
+            font-style: italic;
+        }
+
+        .section {
+            margin-bottom: 50px;
+        }
+
+        .footer {
+            margin-top: 60px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            color: #666;
+            font-size: 0.9em;
+        }
+
+        code {
+            background: #eee;
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+
+        a {
+            color: #0044cc;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>RailVault Discussion Notes</h1>
+
+    <div class="date">
+        Notes from 2026.05.27
+    </div>
+
+    <div class="section">
+        <h2>Project Context</h2>
+
+        <p>
+            Internal brainstorming and criticism session regarding RailVault,
+            decentralized infrastructure, railway preservation, adaptive reuse,
+            governance structures, energy systems, and long-term sustainability.
+        </p>
+
+        <div class="quote">
+            “Improve website with trolls.”
+        </div>
+
+        <div class="quote">
+            “The future of RailVault is at stake.”
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>1. Arguments Against the Project</h2>
+
+        <ul>
+            <li>
+                The project scope may be too large and complex to realistically complete,
+                combining preservation, infrastructure, energy systems, governance,
+                and digital archiving simultaneously.
+            </li>
+
+            <li>
+                The target audience is unclear, potentially attempting to appeal to
+                engineers, preservationists, municipalities, environmentalists,
+                rail enthusiasts, and decentralization advocates at the same time.
+            </li>
+
+            <li>
+                The project currently relies heavily on volunteer passion and idealism,
+                creating concerns about long-term continuity, maintenance, and operational stability.
+            </li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>2. Discussions</h2>
+
+        <ul>
+            <li>
+                Is decentralized infrastructure genuinely more resilient and democratic
+                than centralized systems?
+            </li>
+
+            <li>
+                Does industrial preservation protect culture and identity,
+                or does it slow modernization and practical development?
+            </li>
+
+            <li>
+                What is the value of digital archives if the physical infrastructure itself disappears?
+            </li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>3. Philosophical Questions</h2>
+
+        <ul>
+            <li>
+                Is RailVault driven by practical infrastructure needs,
+                or by nostalgia for industrial civilization?
+            </li>
+
+            <li>
+                Can decentralized communities realistically self-organize
+                without eventually becoming centralized or fragmented?
+            </li>
+
+            <li>
+                Are preservation projects attempts to resist impermanence
+                and the disappearance of places, systems, and memory?
+            </li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>4. Engineering Questions</h2>
+
+        <ul>
+            <li>
+                Is converting railway coal carriages into battery systems
+                technically and economically viable compared to purpose-built infrastructure?
+            </li>
+
+            <li>
+                Can the system scale while remaining maintainable,
+                safe, repairable, and compliant with regulations?
+            </li>
+
+            <li>
+                Is adaptive reuse genuinely the optimal engineering solution,
+                or mainly emotionally appealing because it preserves industrial artifacts?
+            </li>
+        </ul>
+
+        <div class="quote">
+            “Large to finish.”
+        </div>
+
+        <div class="quote">
+            “Who is it for?”
+        </div>
+
+        <div class="quote">
+            “Ambitious / overwhelming.”
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>5. Preservation Questions</h2>
+
+        <ul>
+            <li>
+                Does converting historical railway equipment into battery systems
+                remove its historical authenticity?
+            </li>
+
+            <li>
+                What infrastructure deserves preservation,
+                and who should decide what is culturally important?
+            </li>
+
+            <li>
+                Could RailVault itself eventually become a lost archive
+                documenting infrastructure that no longer exists?
+            </li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Governance and Infrastructure Notes</h2>
+
+        <ul>
+            <li>State</li>
+            <li>Individuals</li>
+            <li>Company</li>
+            <li>Oligarchy</li>
+            <li>Small / Medium / Large organizational systems</li>
+            <li>Local currency concepts</li>
+            <li>Velocity of money</li>
+            <li>Regional economic structures</li>
+            <li>Energy + transport integration</li>
+            <li>Cable network concepts</li>
+            <li>Diesel pump → generator systems</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Battery and Infrastructure Notes</h2>
+
+        <ul>
+            <li>
+                Discussion regarding transforming railway coal carriages
+                into decentralized battery storage systems.
+            </li>
+
+            <li>
+                Concerns regarding density, carrying capacity,
+                weight limitations, and transport efficiency.
+            </li>
+
+            <li>
+                Mention of Australian battery company failures connected
+                to zinc-bromide battery technologies.
+            </li>
+
+            <li>
+                Questions regarding scalability, maintenance,
+                and long-term operational economics.
+            </li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Language Notes</h2>
+
+        <ul>
+            <li>
+                <strong>Steak</strong> = food.
+            </li>
+
+            <li>
+                <strong>Stake</strong> = a pointed object in the ground,
+                or having involvement in something important.
+            </li>
+
+            <li>
+                Example:
+                <code>The future of RailVault is at stake.</code>
+            </li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Additional Notes from Sketches</h2>
+
+        <ul>
+            <li>
+                “Transforming coal carriages into battery platforms.”
+            </li>
+
+            <li>
+                “Is decentralization better?”
+            </li>
+
+            <li>
+                “Density issues.”
+            </li>
+
+            <li>
+                “Heavy versus carrying capacity.”
+            </li>
+
+            <li>
+                “Small / medium / large systems.”
+            </li>
+
+            <li>
+                “Regional infrastructure models.”
+            </li>
+        </ul>
+    </div>
+
+    <div class="footer">
+        RailVault Internal Notes Archive — Discussion Session 2026.05.27
+    </div>
+
+</div>
+
+</body>
+</html>
